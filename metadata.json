@@ -1,0 +1,6 @@
+{
+  "name": "AB Ecommerce Platform",
+  "description": "Daraz-style Bangladeshi multi-vendor e-commerce platform with thousands of products, 3D interactive design, Admin, Merchant, and Customer portals, bKash & Nagad payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
