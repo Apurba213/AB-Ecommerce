@@ -152,7 +152,7 @@ The platform contains three main application roles.
 ### Sign In Page
 
 <p align="center">
-  <img src="./assets/signin_page.png" alt="Sign In Page" width="95%">
+  <img src="./assets/signin_page.png" alt="Sign In Page" width="45%">
 </p>
 
 ---
@@ -179,7 +179,7 @@ The customer storefront provides:
 ## 🛒 Shopping Cart
 
 <p align="center">
-  <img src="./assets/cart.png" alt="Shopping Cart" width="95%">
+  <img src="./assets/cart.png" alt="Shopping Cart" width="45%">
 </p>
 
 Customers can:
@@ -195,7 +195,7 @@ Customers can:
 ## 💳 Checkout
 
 <p align="center">
-  <img src="./assets/checkout.png" alt="Checkout" width="95%">
+  <img src="./assets/checkout.png" alt="Checkout" width="45%">
 </p>
 
 The checkout interface provides:
@@ -211,7 +211,7 @@ The checkout interface provides:
 ## 📦 Order Tracker
 
 <p align="center">
-  <img src="./assets/order_tracker.png" alt="Order Tracker" width="95%">
+  <img src="./assets/order_tracker.png" alt="Order Tracker" width="45%">
 </p>
 
 Customers can monitor order progress through different order statuses.
@@ -231,7 +231,7 @@ The customer experience includes access to shopping and order-related functional
 ## 💬 Drop Message
 
 <p align="center">
-  <img src="./assets/drop_message.png" alt="Drop Message" width="95%">
+  <img src="./assets/drop_message.png" alt="Drop Message" width="55%">
 </p>
 
 Customers can send messages to the store/platform for support or inquiries.
